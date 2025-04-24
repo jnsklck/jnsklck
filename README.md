@@ -1,4 +1,4 @@
-👋 Hi, I’m @jnsklck
+👋 Hi, I’m Jonas
 <!---
 👀 I’m interested in ...
 --->
